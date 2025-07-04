@@ -22,12 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta({options: {
-    readingTime: {
-      singular: "minuto de lectura",
-      plural: "minutos de lectura",
-    },
-  },},),
+    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
@@ -36,11 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Flex({
       components: [
         {
-          Component.Search({
-          options: {
-            placeholder: "Buscar...",
-          },
-}),
+          Component: Component.Search(),
           grow: true,
         },
         { Component: Component.Darkmode() },
@@ -71,9 +62,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      title: "Explorador",
-    }),
+    Component.Explorer(),
   ],
   right: [],
 }
