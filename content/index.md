@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Bienvenido a mi pequeño jardin
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-.
+Estás por iniciar una experiencia digital, que puede que sea cambiante, muy constantemente, por que es como un jardín, todo está en proceso.
+
+Todo comienza [Aquí](primer-entrada.md)
