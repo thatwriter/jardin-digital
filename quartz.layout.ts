@@ -22,12 +22,12 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(options: {
+    Component.ContentMeta({options: {
     readingTime: {
       singular: "minuto de lectura",
       plural: "minutos de lectura",
     },
-  },),
+  },},),
     Component.TagList(),
   ],
   left: [

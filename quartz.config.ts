@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "es-MX",
+    locale: "es-Es",
     baseUrl: "jardin-digital",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",

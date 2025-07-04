@@ -1,6 +1,7 @@
 ---
-title: Principal
+title: Welcome to Quartz
 ---
-Hola, este es un texto de ejemplo
 
-[Inicio](index.md)
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[Aquí](index.md)
