@@ -6,4 +6,7 @@ Estás por iniciar una experiencia digital, que puede que sea cambiante, muy con
 
 Todo comienza [Aquí](primer-entrada.md)
 
+[Idea](planes.md)
+
 Aquí habrán pruebas [Entrar](tests.md)
+
