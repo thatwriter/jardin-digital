@@ -1,5 +1,5 @@
 ---
-title: Epacio para pruebas
+title: Espacio para pruebas
 ---
 Si algo no funciona o se rompe, ocurrirá primero aquí xD
 
