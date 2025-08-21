@@ -1,6 +1,5 @@
 ---
-title: Video teórico No.1
-Creado: 21/08/2025
+title: Video teorico No.1
 ---
 Estatus: En proceso
 ## Objetivo
