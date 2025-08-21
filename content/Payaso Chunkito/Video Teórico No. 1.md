@@ -2,7 +2,7 @@
 title: Video teórico
 Creado: 21/08/2025
 ---
-
+Estatus: En proceso
 ## Objetivo
 - Contextualizar al payaso como el arquetipo artístico, y cómo ha cambiado de acuerdo a su época, sus principales exponentes y definiciones principales, para entender el lenguaje payaso, así como dar a conocer los diversos tipos de espectáculos que ejecutan actualmente, a los que podríamos tener acceso.
 ## Pasos
