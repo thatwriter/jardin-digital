@@ -9,7 +9,7 @@ Acompáñame en este proceso ~~ojalá~~ sin fin.
 
 Hice un primer video, casi improvisado, frente a cámara [click para ver el video](https://youtu.be/IpKBsMJ64dY?si=zEIU7EhUXQVm9PKv)
 
-Estoy planeando un primer [[Video-Teorico-1]]
+Estoy planeando un primer [[Video-Teorico-one]]
 
 ## Historia en proceso
 Todo comienza [Aquí](primer-entrada.md)
