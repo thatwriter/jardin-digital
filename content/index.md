@@ -8,7 +8,7 @@ Soy [[Payaso Chunkito/Chunkito|Chunkito]], me presento, un payaso autodidacta, q
 Acompáñame en este proceso ~~ojalá~~ sin fin. 
 
 ## Proyecto: Escritura
-Ya que desde hace mucho me había considerado escritor, no es para menos, así que de nuevo, aquí estoy con mi proyecto de [Escritura]([[Main-Escritos]])
+Ya que desde hace mucho me había considerado escritor, no es para menos, así que de nuevo, aquí estoy con mi proyecto de [[Main-Escritos|Escritura]]
 ## Historia en proceso
 Todo comienza [Aquí](primer-entrada.md)
 
