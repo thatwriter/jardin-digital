@@ -11,4 +11,6 @@ title: Metas
 - [ ] Dejar con buen olor la azotea
 - [x] Limpiar y acondicionar el "Estudio de Grabación de Video"
 - [x] Acondicionar Jardín Digital
+- [ ] Imprimir un tiraje de 10 libros 
+- [ ] Escribir un nuevo libro
 
