@@ -1,5 +1,5 @@
 ---
-title: Perfeccion-ado
+title: 02 Perfeccion-ado
 ---
 La edad correcta para que una mujer pueda ser fertilizada, es a los 35 años, la mujer es analizada, se le hace atravesar una cabina, donde se monitorean los signos vitales y complexión, así mismo, otras muchas situaciones, si la mujer no cumple las rúbricas, es retirada del resto, se le encomienda un arduo trabajo, ingresando a las labores industriales ciudadanas. En la situación masculina, se le es retirado todo fluido seminal, estimulando a través de ondas sonoras, a través de un dispositivo mecánico que mantiene al paciente en reposo durante al menos diez minutos, la operación se repite tres veces por semana, a partir de que el joven llega a la edad de quince años. Las mujeres adecuadas para tener un hijo en su vientre, son llamadas y preparadas para la inseminación, durante su ciclo de ovulación, el cual se regulariza desde que llegan a la edad de doce. Durante el tiempo que la mujer está embarazada, se es mantenida el análisis constante para evitar cualquier anomalía; Al llegar el momento de la concepción, los encargados del parto, son un grupo de al menos cinco personas, quienes tienen permitido como máximo, tres horas en labor de parto, de lo contrario, el nuevo ser se vuelve "inservible".
 
