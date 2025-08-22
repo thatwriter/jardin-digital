@@ -18,7 +18,7 @@ title: Sinapsis
 
 [[Volver-para-ver|Capítulo 5]]
 
-[[Cambiar-y-vivir|Capítulo 6]]
+[[cap-6-Cambiar-y-vivir|Capítulo 6]]
 
 [[Planeando-salir|Capítulo 7]]
 
