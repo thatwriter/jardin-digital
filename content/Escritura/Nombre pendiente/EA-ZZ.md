@@ -1,3 +1,7 @@
+---
+titl: anotaciones
+---
+
 Torvin uno de los amigos
 Eamon escritor y biólogo (explorador)
 Caspian otro amigo
