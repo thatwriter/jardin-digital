@@ -23,7 +23,9 @@ Línea de tiempo
 - Payaso mexicano Don chole
 ## Fuentes:
 https://clowngestual.blogspot.com/p/historia-del-clown.html
+
 https://clownplanet.com/historia-del-payaso/
+
 https://yapclown.wordpress.com/2017/06/05/jose-soledad-aycardo-el-primer-payaso-de-circo-en-mexico/
 
 
