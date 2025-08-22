@@ -9,3 +9,4 @@ Esto debe mostrar un podcast de Spotify (Spoiler)
 
 ~~por que soy medio flojo y se me olvida, este es el comando para sincronizar desde codespaces: npx quartz sync~~ Ya no lo ocupo por que ya tengo github desktop xDD
 
+

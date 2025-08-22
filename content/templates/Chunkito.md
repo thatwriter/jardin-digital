@@ -1,10 +1,17 @@
 ---
 title: ##
 ---
-Estatus: En proceso
+`Estatus: En proceso`
+
+---
 ## Objetivo
 
+
+
+---
 ## Pasos
 
+
+---
 ## Desarrollo
 

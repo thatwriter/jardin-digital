@@ -3,8 +3,10 @@ title: Sinapsis
 ---
 ## Sinapsis
 ¿Y si existiera un mundo en donde todo está controlado?
+
 ¿Y si en ese mundo existieran pistas para darse cuenta que no es lo que parece?
 
+---
 ## Contenido
 [[Viendo-la-nada|Capítulo 1]]
 

@@ -9,6 +9,8 @@ Soy un payaso que busca adaptarse a este mundo, que siempre cambia, tuve la fort
 Eventualmente comencé a interesarme en este arte, y tuve la fortuna de ser invitado a formar parte de **LLUVIA DE PAYASOS**.
 
 Así que si estás aquí, ya sea por el jardín digital o por que encontraste el link en algún otro lado, te invito a seguir en este espacio, en las siguientes páginas:
+
+---
 ## Proyecto en Youtube
 Hice un primer video, casi improvisado, frente a cámara [click para verlo](https://youtu.be/IpKBsMJ64dY?si=zEIU7EhUXQVm9PKv)
 
