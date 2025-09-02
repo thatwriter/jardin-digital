@@ -1,5 +1,5 @@
 ---
-titl: anotaciones
+title: anotaciones
 ---
 
 Torvin uno de los amigos

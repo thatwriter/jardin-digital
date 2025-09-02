@@ -13,4 +13,10 @@ title: Metas
 - [x] Acondicionar Jardín Digital
 - [ ] Imprimir un tiraje de 10 libros 
 - [ ] Escribir un nuevo libro
+- [ ] Acomodar las cosas de mi cuarto, otra vez
+- [x] iniciar mi propio Zettelkasten
+- [ ] Leer un libro
+- [ ] Empezar en el semillero creativo
+- [ ] 
+
 
