@@ -23,3 +23,9 @@ Todo comienza [Aquí](primer-entrada.md)
 Aquí habrán pruebas [Entrar](tests.md)
 
 Y por que también quiero estructurar a futuro: [[Metas]]
+
+---
+## Zettelkasten 
+Es un sistema de organización de notas que estoy tratando de adoptar 
+Aquí están las notas: 
+[[Indice]]

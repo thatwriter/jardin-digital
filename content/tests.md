@@ -12,7 +12,6 @@ Esto debe mostrar un podcast de Spotify (Spoiler)
 Ahora ocupo para hacer pruebas `npx quartz build --serve`
 
 
-Para el show de lluvia de payasos tengo los siguientes datos
-
 
 Ahora tengo el pendiente de saber cuando agregan `.base` a quartz 4 [Seguimiento](https://github.com/jackyzha0/quartz/issues/1995)
+

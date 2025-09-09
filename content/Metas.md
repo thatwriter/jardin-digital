@@ -3,20 +3,19 @@ title: Metas
 ---
 - [x] Canal de Youtube
 - [ ] 3 Videos en canal de youtube
-- [ ] Retomar ejercicios
 - [ ] Entrar a la universidad
 - [ ] Estructurar mi propio show de payaso
-- [ ] Estructurar el show de Lluvia de Payasos
+- [x] Estructurar el show de Lluvia de Payasos
 - [x] Crear carpeta de videos de referencias 
 - [ ] Dejar con buen olor la azotea
 - [x] Limpiar y acondicionar el "Estudio de Grabación de Video"
 - [x] Acondicionar Jardín Digital
 - [ ] Imprimir un tiraje de 10 libros 
 - [ ] Escribir un nuevo libro
-- [ ] Acomodar las cosas de mi cuarto, otra vez
+- [x] Acomodar las cosas de mi cuarto, otra vez
 - [x] iniciar mi propio Zettelkasten
 - [ ] Leer un libro
-- [ ] Empezar en el semillero creativo
-- [ ] 
-
-
+- [x] Empezar en el semillero creativo
+- [ ] Limpiar mis bóvedas de obsidian
+- [ ] Grabar video 1 de Chunkito
+- [ ] Hacer agradable visualmente la página de lluvia de payasos 
