@@ -16,6 +16,8 @@ Así que si estás aquí, ya sea por el jardín digital o por que encontraste el
 ## Proyecto en Youtube
 Hice un primer video, casi improvisado, frente a cámara [click para verlo](https://youtu.be/IpKBsMJ64dY?si=zEIU7EhUXQVm9PKv)
 
+Hice un video #2 https://youtu.be/jpbKeAtJtOM?si=LqRswE_jris0Dy6m 
+
 Estoy planeando un primer [[Video-Teorico-one|Video teórico]]
 
 ---

@@ -17,5 +17,8 @@ title: Metas
 - [ ] Leer un libro
 - [x] Empezar en el semillero creativo
 - [ ] Limpiar mis bóvedas de obsidian
-- [ ] Grabar video 1 de Chunkito
+- [x] Grabar video 1 de Chunkito
 - [ ] Hacer agradable visualmente la página de lluvia de payasos 
+- [ ] Grabar video 2 de Chunkito 
+- [ ] Grabar tik tok de carablanca
+- [ ] 

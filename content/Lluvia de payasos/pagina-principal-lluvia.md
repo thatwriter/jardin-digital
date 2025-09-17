@@ -16,12 +16,12 @@ También espero más adelante integrar
 
 ## Pendientes
 - [ ] Revisar salones mas grandes
-- [ ] Teatro Tonino
+- [x] Teatro Tonino
 - [ ] Chicho salón Casablanca
-- [ ] Jueves o Viernes 
+- [x] Jueves o Viernes 
 - [ ] Boletos y una función extra a las 3 para confirmar asistencias y llevar a la gente de confianza a ese horario 
-- [ ] Escrito para tonino: incluir un grupo con historia y trayectoria seguro social, Rafael solana, José marti, legaría foros culturales y casas de cultura
-- [ ] Viernes ir con tonino 
+- [x] Escrito para tonino: incluir un grupo con historia y trayectoria seguro social, Rafael solana, José marti, legaría foros culturales y casas de cultura
+- [x] Viernes ir con tonino 
 
 ---
 ## Recursos escénicos 
@@ -73,3 +73,33 @@ También espero más adelante integrar
 	- Fuente: https://vt.tiktok.com/ZSAp21gwD/
 - Deportes
 	- Desarrollar varios deportes de manera chusca
+- exorcismo: https://www.instagram.com/reel/DNtAI-cVMoy/?igsh=MTJ4eDBpdXhxMHR4ZA==
+- Lluvia: 
+	- escupiendo agua: https://www.instagram.com/reel/DLjKCagy0M_/?igsh=Mm5pdHYzNWRoaHN0
+	- crees que llueva hoy? https://www.instagram.com/reel/DOWmGrWDMiA/?igsh=MWhjZjc3eXI5Zjl5NQ==
+	- tomar agua: https://www.instagram.com/reel/DMdgBwVqTwV/?igsh=ejV5dmtqdjF6Mmdr
+	- No se quiere mojar: https://www.instagram.com/reel/DNKGYNFMzdH/?igsh=MXh0em1oNzdweWg4Mw==
+	- Le sacude el pelo: https://www.instagram.com/reel/DLtY83UsnRG/?igsh=MWhvdW42M3NveDJ3eQ==
+- Pata negra: 
+	- https://www.instagram.com/reel/DOVfLkCjkaL/?igsh=MXN1M290Z20yd3I2bg==
+- Caridad al revés: 
+	- https://www.instagram.com/reel/DMneZftOsBh/?igsh=YmY1am80dDFuMWIz
+- Arenas movedizas: https://www.instagram.com/reel/DKz_nqwJqxk/?igsh=MXVrNG9uOHc0emJrZg==
+- Mascotas: 
+	- Perico: https://www.instagram.com/reel/DNvuBZpWlJv/?igsh=MWRtb3plcW52eHhoeA==
+- Payaso Rodilla: 
+	- https://www.instagram.com/reel/DNzDYyQ2kJ2/?igsh=MWN0MW1oaGExdzVpMw==
+- Chistes de Veganos: 
+	- invitar a tomar algo, es vegana, entonces alga https://www.instagram.com/reel/DMtGkd_CEaX/?igsh=MWt4MzV3NXN4NDl2cQ==
+- Pedir licencia a conductor falso: https://www.instagram.com/reel/DNiWNy6MM0L/?igsh=MW9mOWdsMnM3Z2p5cA==
+- bailarín de globos: https://www.instagram.com/reel/DN_BfnbjiGx/?igsh=dXNodGpxamw4cGlw
+- pelea de fondo : https://www.instagram.com/reel/DN4xRCmDfgr/?igsh=MXEwbmFwaXc2NnJlMw==
+- Animales: 
+	- Murciélago: https://www.instagram.com/reel/DK28fUpRsQC/?igsh=MWFidGR3OWo3NDQzZg==
+- Cantinflear
+	- https://www.instagram.com/reel/DMA5kt1pQo3/?igsh=MWl6NmxnZDc2ZTRsbA==
+---
+## Procesos de expansión 
+Buscando un lugar más grandes tuvimos reunión y entregamos el escrito: 
+[[Junta-teatro|Documento de solicitud de teatro]]
+

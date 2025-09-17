@@ -20,6 +20,7 @@ Creencias: Un gato es dios
 Características:
 - Desorganizado
 - No tiene miedo
+	- se dice a si mismo, -se valiente, tu puedes, aunque no puedas: https://www.instagram.com/reel/DKgvnWSTPYR/?igsh=MWhybWkzdmpueDAz
 - No tiene autocontrol
 - Siempre repite lo que le dio risa
 - Tiene una risa fingida
@@ -33,3 +34,24 @@ Rutinas principales:
 	•	Maleta que flota
 	•	Slapstick 
 	•	Magia chusca
+A desarrollar: 
+- Palero: https://www.instagram.com/reel/DNUYcxxJGDV/?igsh=eW9kbnV1bXAyNm52
+- esencia de patito: https://www.instagram.com/reel/DOb8v63jqjx/?igsh=MXFrenlrZzRyemthdw==
+- Helio: https://www.instagram.com/reel/DN1m2t9WGdT/?igsh=MWUzdGNkcjdtZWJ4aA==
+- bucle: https://www.instagram.com/reel/DNWaIcGyEXj/?igsh=ZGhmcGFra3A2bTRr
+- Ventrílocuo: 
+	- https://www.instagram.com/reel/DOL7xVODBSo/?igsh=MTdjbzFjOXhjcXJmMg==
+	- Con una persona del público: https://www.instagram.com/reel/DONUJBhjMsQ/?igsh=MTdlNDMxdzZqc3VldA==
+- música: 
+	- Kazoo: https://www.instagram.com/reel/DN4yzBLjhfP/?igsh=MW8zM25rczM4NjRnYw==
+	- Copas: https://www.instagram.com/reel/DLKFbevvoeM/?igsh=YzBtNDV5ZGhnNWNl
+- agua al instante: 
+	- agua.rar https://www.instagram.com/reel/DLgtBvBvBNE/?igsh=MXM3aHR3MnN0Y3AyOA==
+- puppet: 
+	- calcetas: https://www.instagram.com/reel/DOKw-ATCGEX/?igsh=MXRpc3hlYWt3aDFzNA==
+	- Tortuga: https://www.instagram.com/reel/DONtSZ9jUej/?igsh=MWZpbnBrbHdmcTVzdw==
+- Magia: 
+	- Olvidaste contar los lápices: https://www.instagram.com/reel/DHVbXtkCvdh/?igsh=MXRjbG84ZzNsa3doeA==
+- Lanzalas, pero a la cuenta de 3:
+	- https://www.instagram.com/reel/DNugQytZNVw/?igsh=Z21oNXBkaGkxanAx
+- Fake bici jump: https://www.instagram.com/reel/DOY3kWhDlqB/?igsh=MW11Ym16NTAzbzUwdA==
