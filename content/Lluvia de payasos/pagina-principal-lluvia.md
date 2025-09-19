@@ -98,6 +98,8 @@ También espero más adelante integrar
 	- Murciélago: https://www.instagram.com/reel/DK28fUpRsQC/?igsh=MWFidGR3OWo3NDQzZg==
 - Cantinflear
 	- https://www.instagram.com/reel/DMA5kt1pQo3/?igsh=MWl6NmxnZDc2ZTRsbA==
+- zancos y marioneta: 
+	- https://pin.it/2CbsyyHUz
 ---
 ## Procesos de expansión 
 Buscando un lugar más grandes tuvimos reunión y entregamos el escrito: 

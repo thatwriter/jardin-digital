@@ -7,3 +7,4 @@ title: Herramientas y utilidades
 - Para publicar Obsidian mediante la web: https://quartz.jzhao.xyz/
 - Para publicar una página web estática gratis: https://pages.github.com
 - Para tomar notas de una manera cool: https://obsidian.md/
+

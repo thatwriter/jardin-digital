@@ -36,3 +36,6 @@ Aquí están las notas:
 Como parte de mi proceso de aprendizaje y experimentación, compartiré (también para guardar) las herramientas que he utilizado
 [[Herramientas]]
 
+---
+## Semillero Creativo
+Estoy en un taller: [[semillero-creativo-naucalpan|Semillero Creativo]] en el cual se desarrollan habilidades audiovisuales, para impactar el entorno en el que estoy actualmente (Naucalpan)
