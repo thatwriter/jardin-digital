@@ -12,23 +12,27 @@ Soy [[Payaso Chunkito/Chunkito|Chunkito]], me presento, un payaso autodidacta, q
 
 Acompáñame en este proceso ~~ojalá~~ sin fin. 
 
+Integrante de [[pagina-principal-lluvia|Lluvia de Payasos]]
+
 ---
 ## Proyecto: Escritura
 Ya que desde hace mucho me había considerado escritor, no es para menos, así que de nuevo, aquí estoy con mi proyecto de [[Main-Escritos|Escritura]]
 
 ---
-## Historia en proceso
+## Espacio Personal 
 Todo comienza [Aquí](primer-entrada.md)
 
 Aquí habrán pruebas [Entrar](tests.md)
 
 Y por que también quiero estructurar a futuro: [[Metas]]
+y por qué no? si necesito apuntar algo o llevar registro de mis actividades: [[Inicio]]
 
 ---
 ## Zettelkasten 
 Es un sistema de organización de notas que estoy tratando de adoptar 
 Aquí están las notas: 
 [[Indice]]
+
 
 ---
 
@@ -38,4 +42,16 @@ Como parte de mi proceso de aprendizaje y experimentación, compartiré (tambié
 
 ---
 ## Semillero Creativo
-Estoy en un taller: [[semillero-creativo-naucalpan|Semillero Creativo]] en el cual se desarrollan habilidades audiovisuales, para impactar el entorno en el que estoy actualmente (Naucalpan)
+Estoy en un taller: [[semillero-creativo-naucalpan|Semillero Creativo]] en el cual se desarrollan habilidades audiovisuales, para impactar el entorno en el que estoy actualmente (Naucalpan).
+
+Aquí estoy desarrollando mi proyecto de Podcast, ve a verlo :3 (Por si hay algún comentario en espacio para pruebas)
+****
+## Sección de comentarios 
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="806d3407-0b42-4342-9031-43910613685d"
+  data-page-id="{{ /index }}"
+  data-page-url="{{ /jardin-digital }}"
+  data-page-title="{{ Bienvenido a mi jardin }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>

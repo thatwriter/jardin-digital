@@ -2,8 +2,8 @@
 title: Metas
 ---
 - [x] Canal de Youtube
-- [ ] 3 Videos en canal de youtube
-- [ ] Entrar a la universidad
+- [x] 3 Videos en canal de youtube ✅ 2025-09-24
+- [x] Entrar a la universidad ✅ 2025-09-25
 - [ ] Estructurar mi propio show de payaso
 - [x] Estructurar el show de Lluvia de Payasos
 - [x] Crear carpeta de videos de referencias 
@@ -21,4 +21,5 @@ title: Metas
 - [ ] Hacer agradable visualmente la página de lluvia de payasos 
 - [ ] Grabar video 2 de Chunkito 
 - [ ] Grabar tik tok de carablanca
+- [ ] Hacer mi album de fotos online
 - [ ] 

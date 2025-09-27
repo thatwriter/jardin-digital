@@ -14,9 +14,11 @@ Así que si estás aquí, ya sea por el jardín digital o por que encontraste el
 
 ---
 ## Proyecto en Youtube
-Hice un primer video, casi improvisado, frente a cámara [click para verlo](https://youtu.be/IpKBsMJ64dY?si=zEIU7EhUXQVm9PKv)
+Hice un primer video, casi improvisado, frente a cámara
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IpKBsMJ64dY?si=6XzJNpOhnjq6xpSG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Hice un video #2 https://youtu.be/jpbKeAtJtOM?si=LqRswE_jris0Dy6m 
+Hice un video #2 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpbKeAtJtOM?si=8_0hYU5Ytee1rCKu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Estoy planeando un primer [[Video-Teorico-one|Video teórico]]
 

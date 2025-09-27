@@ -50,6 +50,7 @@ A desarrollar:
 - puppet: 
 	- calcetas: https://www.instagram.com/reel/DOKw-ATCGEX/?igsh=MXRpc3hlYWt3aDFzNA==
 	- Tortuga: https://www.instagram.com/reel/DONtSZ9jUej/?igsh=MWZpbnBrbHdmcTVzdw==
+	- marioneta con la mano inversa: https://www.instagram.com/reel/DOP8U_hjd65/?igsh=MTAxajM4bHBneTJpNA==
 - Magia: 
 	- Olvidaste contar los lápices: https://www.instagram.com/reel/DHVbXtkCvdh/?igsh=MXRjbG84ZzNsa3doeA==
 - Lanzalas, pero a la cuenta de 3:

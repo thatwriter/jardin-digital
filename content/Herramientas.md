@@ -7,4 +7,6 @@ title: Herramientas y utilidades
 - Para publicar Obsidian mediante la web: https://quartz.jzhao.xyz/
 - Para publicar una página web estática gratis: https://pages.github.com
 - Para tomar notas de una manera cool: https://obsidian.md/
+- Para descargar contenido audiovisual libre de derechos de autor: https://pixabay.com/
+- Agregar fotos (google fotos) a páginas web: https://www.labnol.org/embed/google/photos
 

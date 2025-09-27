@@ -2,6 +2,17 @@
 title: Encerrados
 Inspiración: Untold -Rusty Lake
 ---
+Tarea del 18/09/2025
+Escaleta para grabar un podcast (radio)
+- Fecha: 18/09/25
+- Solicitud: [[A5|Escaleta]]
+- Requisitos/limites: 3:00"
+- Máximo: 3 episodios
+- Género: Dramatismo (Radio)
+- Contenido: cubrir los [[A4|4 Elementos de Radio: Música, Voz, FX y Silencio]]
+- Rúbrica: Entrada y salida
+- Título: [[Encerrados]]
+
 | Voz                                                                                                                                                               | Música                      | FX                                                | Silencio | Duración | Comentarios                                     |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------------------------- | -------- | -------- | ----------------------------------------------- |
 |                                                                                                                                                                   |                             | Rúbrica entrada                                   |          | 5"       | Sección Cuentos                                 |
@@ -72,3 +83,13 @@ Inspiración: Untold -Rusty Lake
 |                                                                                                                                                                                                       |                                         |                                                      | Completo | 3"       |                                                             |
 | Voz 3: Abro los ojos y me doy cuenta de que estoy en una cama, veo al techo y sobre la misma pared, hay una litera, alguien empieza a bajar lentamente                                                | Música de suspenso, vibración constante | Sonido de cama de metal, movimiento de la habitación |          | 15"      | La voz hace fade out                                        |
 |                                                                                                                                                                                                       |                                         | Rúbrica salida                                       |          | 5"       | Sección Cuentos                                             |
+
+## Recursos de grabación
+Grabación: https://play.google.com/store/apps/details?id=voicerecorder.audiorecorder.voice
+Micrófono de lavalier: de Menfis 
+Edición de audio:  https://www.bandlab.com (web)
+Edición de video: https://play.google.com/store/apps/details?id=com.frontrow.vlog
+Recursos sonoros (FX y música): 
+- Rubricas: banco de bandlab
+- el resto: https://pixabay.com/music/
+Foto: propia, editada en Google fotos 

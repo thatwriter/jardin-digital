@@ -15,13 +15,15 @@ También espero más adelante integrar
 ---
 
 ## Pendientes
-- [ ] Revisar salones mas grandes
+- [x] Revisar salones mas grandes ✅ 2025-09-23
 - [x] Teatro Tonino
-- [ ] Chicho salón Casablanca
+- [x] Chicho salón Casablanca ✅ 2025-09-23
 - [x] Jueves o Viernes 
-- [ ] Boletos y una función extra a las 3 para confirmar asistencias y llevar a la gente de confianza a ese horario 
+- [x] Pedir teatro ✅ 2025-09-23
 - [x] Escrito para tonino: incluir un grupo con historia y trayectoria seguro social, Rafael solana, José marti, legaría foros culturales y casas de cultura
 - [x] Viernes ir con tonino 
+- [x] Hacer la nueva publicidad ✅ 2025-09-24
+- [ ] Escribir la rutina "el box"
 
 ---
 ## Recursos escénicos 
@@ -100,8 +102,15 @@ También espero más adelante integrar
 	- https://www.instagram.com/reel/DMA5kt1pQo3/?igsh=MWl6NmxnZDc2ZTRsbA==
 - zancos y marioneta: 
 	- https://pin.it/2CbsyyHUz
+- comienza el show desde que entra la gente y había una pantalla para presentar escenas (teatro en una obra que fue a ver fofo)
+****
+## Tipos de reuniones 
+1. Ensayo
+2. Armar 
+3. Lluvia de ideas (ensayo de mesa)
+4. 
 ---
 ## Procesos de expansión 
-Buscando un lugar más grandes tuvimos reunión y entregamos el escrito: 
-[[Junta-teatro|Documento de solicitud de teatro]]
+
+Buscando un lugar más grandes tuvimos reunión y entregamos un escrito (Lo deje solo en mi drive personal por qué tiene datos personales sensibles)
 
