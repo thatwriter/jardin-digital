@@ -21,5 +21,5 @@ title: Metas
 - [ ] Hacer agradable visualmente la página de lluvia de payasos 
 - [ ] Grabar video 2 de Chunkito 
 - [ ] Grabar tik tok de carablanca
-- [ ] Hacer mi album de fotos online
-- [ ] 
+- [x] Hacer mi album de fotos online ✅ 2025-09-27
+- [ ] Hacer árbol genealógico [[d2025-09-27#Árbol genealógico]]

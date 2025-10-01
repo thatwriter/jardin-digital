@@ -1,27 +1,6 @@
 ---
-title: 2025-09-23
+title: Honguito de Mario Bros, de 5 cm³
 ---
- - [x] entregar los zapatitos 
- - [x] Tejer 
- - [x] Investigar sobre lo del teatro 
- - [x] Editar mi Programa cultural ✅ 2025-09-24
-
-
-![[A1]]
-
-Patron de diseño de tejido 
-Por qué es un encargo y no debo quedar mal: 
-- [ ] [[Hongo-Verde]]
-- [ ] [[Hongo-Verde-1]]
-- [ ] [[Hongo-Verde-2]]
-- [ ] [[Hongo-Verde-3]]
-- [ ] [[Hongo-Verde-4]]
-- [ ] [[Hongo-Rojo]]
-- [ ] [[Hongo-Rojo-1]]
-- [ ] [[Hongo-Rojo-2]]
-- [ ] [[Hongo-Rojo-3]]
-- [ ] [[Hongo-Rojo-4]]
- 
 Color rojo o verde
 Vuelta(V)1. 6 medios puntos (mp) en anillo mágico (am) (6 puntos)
 V2. 6 aumentos (aum) (12)

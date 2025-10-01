@@ -3,29 +3,29 @@ title: 3er hongo rojo
 ---
 
 ## Hongo
-- [ ] Color rojo: 
-- [ ] Circulo 6 puntos 
-- [ ] 1 aumentos x6
-- [ ] (1 aumento 1 punto) x6 
-- [ ] (1 aumento 2 puntos) x6
-- [ ] (1 aumento 3 puntos) x6
-- [ ] (1 aumento 4 puntos) x6
-- [ ] Vuelta 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] (1 disminución 5 puntos) x6
-- [ ] 1 disminución 4 puntos vuelta 
-- [ ] vuelta 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] (1 disminución 3 puntos) x6
-- [ ] (1 disminución 2 puntos) x6
-- [ ] (1 disminución 1 punto) x6
-- [ ] Cierre del círculo
+- [x] Color rojo: ✅ 2025-09-27
+- [x] Circulo 6 puntos ✅ 2025-09-27
+- [x] 1 aumentos x6 ✅ 2025-09-27
+- [x] (1 aumento 1 punto) x6 ✅ 2025-09-27
+- [x] (1 aumento 2 puntos) x6 ✅ 2025-09-27
+- [x] (1 aumento 3 puntos) x6 ✅ 2025-09-27
+- [x] (1 aumento 4 puntos) x6 ✅ 2025-09-27
+- [x] Vuelta 1 ✅ 2025-09-27
+- [x] 2 ✅ 2025-09-27
+- [x] 3 ✅ 2025-09-27
+- [x] 4 ✅ 2025-09-27
+- [x] 5 ✅ 2025-09-27
+- [x] 6 ✅ 2025-09-27
+- [x] (1 disminución 5 puntos) x6 ✅ 2025-09-28
+- [x] 1 disminución 4 puntos vuelta ✅ 2025-09-28
+- [x] vuelta 1 ✅ 2025-09-28
+- [x] 2 ✅ 2025-09-28
+- [x] 3 ✅ 2025-09-28
+- [x] 4 ✅ 2025-09-28
+- [x] (1 disminución 3 puntos) x6 ✅ 2025-09-28
+- [x] (1 disminución 2 puntos) x6 ✅ 2025-09-28
+- [x] (1 disminución 1 punto) x6 ✅ 2025-09-28
+- [x] Cierre del círculo ✅ 2025-09-28
 
 - [ ] Ojos
 ## Círculo 1

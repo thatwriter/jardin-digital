@@ -17,15 +17,15 @@ title: 4to hongo verde
 - [x] 5 ✅ 2025-09-26
 - [x] 6 ✅ 2025-09-26
 - [x] (1 disminución 5 puntos) x6 ✅ 2025-09-26
-- [ ] 1 disminución 4 puntos vuelta 
-- [ ] vuelta 1
-- [ ] 2
-- [ ] 3
-- [ ] 4
-- [ ] (1 disminución 3 puntos) x6
-- [ ] (1 disminución 2 puntos) x6
-- [ ] (1 disminución 1 punto) x6
-- [ ] Cierre del círculo 
+- [x] 1 disminución 4 puntos vuelta ✅ 2025-09-26
+- [x] vuelta 1 ✅ 2025-09-26
+- [x] 2 ✅ 2025-09-26
+- [x] 3 ✅ 2025-09-26
+- [x] 4 ✅ 2025-09-26
+- [x] (1 disminución 3 puntos) x6 ✅ 2025-09-26
+- [x] (1 disminución 2 puntos) x6 ✅ 2025-09-26
+- [x] (1 disminución 1 punto) x6 ✅ 2025-09-26
+- [x] Cierre del círculo ✅ 2025-09-26
 
 - [ ] Ojos
 ## Círculo 1

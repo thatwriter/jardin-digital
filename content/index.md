@@ -46,6 +46,10 @@ Estoy en un taller: [[semillero-creativo-naucalpan|Semillero Creativo]] en el cu
 
 Aquí estoy desarrollando mi proyecto de Podcast, ve a verlo :3 (Por si hay algún comentario en espacio para pruebas)
 ****
+## Libreta digital Universidad
+Logré entrar en la uni así que necesito un espacio aqui.
+[[Materias|Aquí anotaré esas cosas]]
+
 ## Sección de comentarios 
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
