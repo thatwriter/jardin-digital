@@ -1,6 +1,7 @@
 ---
 title: sumas y promedios de autos nacionales, importados y total
 ---
+ ```Pseint
 Algoritmo sin_titulo
 	Definir precio,precios_nacionales, precios_importados, precios_totales como Real
 	Definir promedio_nacionales, promedio_importados, promedio_total Como Real
@@ -29,3 +30,4 @@ Algoritmo sin_titulo
 	Escribir "promedio de autos importados: " , promedio_importados
 	Escribir "promedio de autos totales: " , promedio_total
 FinAlgoritmo
+```

@@ -1,6 +1,7 @@
 ---
 title: Solicitar 10 edades, mostrar los mayores y menores de edad y el promedio
 ---
+```PSeInt
 
  Algoritmo mayores_de_edad
 	definir edad, mayores, menores, alumnos Como Entero
@@ -20,4 +21,4 @@ title: Solicitar 10 edades, mostrar los mayores y menores de edad y el promedio
 	promedio = suma / alumnos
 	escribir "Son " , mayores, " mayores de edad, " menores , " menores de edad y el promedio es " , promedio
 FinAlgoritmo
-
+```

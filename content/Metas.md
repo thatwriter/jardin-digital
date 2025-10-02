@@ -18,7 +18,7 @@ title: Metas
 - [x] Empezar en el semillero creativo
 - [ ] Limpiar mis bóvedas de obsidian
 - [x] Grabar video 1 de Chunkito
-- [ ] Hacer agradable visualmente la página de lluvia de payasos 
+- [x] Hacer agradable visualmente la página de lluvia de payasos ✅ 2025-10-01
 - [ ] Grabar video 2 de Chunkito 
 - [ ] Grabar tik tok de carablanca
 - [x] Hacer mi album de fotos online ✅ 2025-09-27
