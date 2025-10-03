@@ -7,3 +7,13 @@ title: Lista de materias
 ## Administración empresarial 
 
 ## Lógica de programación 101-NAU
+[[Ejercicio-1-pseudocodigo]]
+[[Ejercicio-2-pesudocodigo]]
+[[ejercicio-3-pseudocodigo]]
+[[clase-2-ejercicio-1]]
+
+## Geometría analítica
+[[Tarea-1-forms-GA]]
+
+## Grupo de estudio
+[[Sesión 1]]
