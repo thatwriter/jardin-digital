@@ -3,9 +3,13 @@ title: Sesión de grupo de estudio
 ---
 ## **Introducción**
 La computadora es una calculadora que realiza miles de operaciones por segundo. 
+
 Un programa nos permite comunicarnos con los procesos para los que está hecho.
+
 Un lenguaje de programación es una aplicación que hace operaciones sencillas y se conecta directamente al procesador.
+
 Para comunicarnos, se crearon instrucciones específicas.
+
 La mayoría son en inglés (estudien inglés)
 ## Declaración de variables
 1. Real
