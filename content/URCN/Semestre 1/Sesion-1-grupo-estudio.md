@@ -45,7 +45,7 @@ La mayoría son en inglés (estudien inglés)
 
 
 >[!NOTE]
-Siempre empezar con al menos una letra
+>Siempre empezar con al menos una letra
 >
 >Respetar el tipo de datos de las variables
 >
