@@ -9,24 +9,28 @@ Para comunicarnos, se crearon instrucciones específicas.
 La mayoría son en inglés (estudien inglés)
 ## Declaración de variables
 1. Real
+
 	${R_0 } = 1.1$
 	
 	$R_1 =5.345$
 	
 	$R_n =1298.234$
 1. Entero
+
 	 $E_0 = 5$ 
 	 
 	 $E_1 = 12$
 	 
 	 $E_n = 999999$
  2. Carácter
+	 
 	 $C_0 = ´a´$
 	 
 	 $C_1 =´b´$ 
 	 
 	 $C_n = ´z´$
  3. Lógico
+	
 	$l_0 =Verdadero$
 	
 	$L_1 =Falso$
@@ -38,7 +42,9 @@ La mayoría son en inglés (estudien inglés)
 
 >[!NOTE]
 Siempre empezar con al menos una letra
-Respetar el tipo de datos de las variables
+>
+>Respetar el tipo de datos de las variables
+>
 Si hacemos una operación, el resultado, guardarlo en una nueva variable
 ## Escribir mensajes
 La computadora es una calculadora, que ejecuta operaciones a miles de veces por segundo.
