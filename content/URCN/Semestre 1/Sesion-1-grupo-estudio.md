@@ -10,23 +10,30 @@ La mayoría son en inglés (estudien inglés)
 ## Declaración de variables
 1. Real
 	${R_0 } = 1.1$
+	
 	$R_1 =5.345$
+	
 	$R_n =1298.234$
-2. Entero
+1. Entero
 	 $E_0 = 5$ 
+	 
 	 $E_1 = 12$
+	 
 	 $E_n = 999999$
- 3. Carácter
+ 2. Carácter
 	 $C_0 = ´a´$
+	 
 	 $C_1 =´b´$ 
+	 
 	 $C_n = ´z´$
- 4. Lógico
+ 3. Lógico
 	$l_0 =Verdadero$
+	
 	$L_1 =Falso$
-5. Cadenas
-6. Diccionarios
-7. Conjuntos
-8. Matrices
+4. Cadenas
+5. Diccionarios
+6. Conjuntos
+7. Matrices
 
 
 >[!NOTE]
@@ -104,8 +111,11 @@ Ejemplo en Python
 ```
 ## Ejecutar acciones cuando se cumple una condicional
 Cuando queremos que una operación se ejecute cuando una operación booleana es verdadera, utilizamos el comando  `si` ó `if`
+
 $a = 1$
+
 $b =1$
+
 $f(a,b) = \begin{cases} euclideana & \text{si } a = b , \\NoEuclideana & \text{en otro caso.}\end{cases}$
 
 Ejemplo en PSeInt:
