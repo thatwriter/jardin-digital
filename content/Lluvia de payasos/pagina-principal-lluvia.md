@@ -103,6 +103,10 @@ También espero más adelante integrar
 - zancos y marioneta: 
 	- https://pin.it/2CbsyyHUz
 - comienza el show desde que entra la gente y había una pantalla para presentar escenas (teatro en una obra que fue a ver fofo)
+- instrumentos musicales: 
+	- https://vt.tiktok.com/ZSUdpDmFN/
+	- https://vt.tiktok.com/ZSUdg2fw7/
+	- https://vt.tiktok.com/ZSUdgHy3r/
 ****
 ## Tipos de reuniones 
 1. Ensayo

@@ -28,9 +28,13 @@ Características:
 - Disfruta mucho estar vivo
 - Es impaciente 
 
+## Show 
+- Maleta que flota 
+- Malabares
+
 
 Rutinas principales: 
-	•	Malabares
+	•	Malabares 
 	•	Maleta que flota
 	•	Slapstick 
 	•	Magia chusca

@@ -48,3 +48,4 @@ title: Índice de todas las notas
 - [[A10#Visibilizar valoriza]]
 - [[B35#There is no next thing]]
 - [[B36#If you can't control your posture, can't control your mind ]]
+- [[A11#Debes tener un motivo para hacer la acción]]

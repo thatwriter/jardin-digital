@@ -4,7 +4,8 @@ title: Metas
 - [x] Canal de Youtube
 - [x] 3 Videos en canal de youtube ✅ 2025-09-24
 - [x] Entrar a la universidad ✅ 2025-09-25
-- [ ] Estructurar mi propio show de payaso
+- [ ] Escribir la rutina de la maleta-malabares
+- [x] Escribir una rutina que haré en el show de chunkito ✅ 2025-10-03
 - [x] Estructurar el show de Lluvia de Payasos
 - [x] Crear carpeta de videos de referencias 
 - [ ] Dejar con buen olor la azotea
@@ -22,4 +23,6 @@ title: Metas
 - [ ] Grabar video 2 de Chunkito 
 - [ ] Grabar tik tok de carablanca
 - [x] Hacer mi album de fotos online ✅ 2025-09-27
-- [ ] Hacer árbol genealógico [[d2025-09-27#Árbol genealógico]]
+- [x] Hacer árbol genealógico [[d2025-09-27#Árbol genealógico]] ✅ 2025-10-03
+- [ ] Escribir 2 hermanos de mi papa
+- [ ] escribir 2 hermanas de mi mamá 

@@ -31,7 +31,7 @@ y por qué no? si necesito apuntar algo o llevar registro de mis actividades: [[
 ## Zettelkasten 
 Es un sistema de organización de notas que estoy tratando de adoptar 
 Aquí están las notas: 
-[[Indice]]
+[[Indice-zettelkasten]]
 
 
 ---

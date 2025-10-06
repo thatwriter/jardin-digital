@@ -7,3 +7,7 @@ title: Indice
 ---
 ## Contenido
 [[EA-A|Capítulo 1]]
+
+
+## Se supone que era secreto, pero mientras y regreso, dejo que quede público
+[[EA-ZZ|Notas]]

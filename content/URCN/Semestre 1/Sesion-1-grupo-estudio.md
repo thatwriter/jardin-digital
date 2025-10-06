@@ -49,7 +49,7 @@ La mayoría son en inglés (estudien inglés)
 >
 >Respetar el tipo de datos de las variables
 >
-Si hacemos una operación, el resultado, guardarlo en una nueva variable
+>Si hacemos una operación, el resultado, guardarlo en una nueva variable
 ## Escribir mensajes
 La computadora es una calculadora, que ejecuta operaciones a miles de veces por segundo.
 Hay que solicitarle que nos diga qué va a hacer
