@@ -16,6 +16,7 @@ Concepto: Botón
 8. Final: Pelotas
 9. Cierre: Botón y mampara
 
+## Estructura 
 Nuevo cambio, se añade willy 
 SHOW TEATRO:
 1. OPENING (almohadas) TODOS.
@@ -43,51 +44,3 @@ I N T E R M E D I O.
 
 Vestuario: para rutina opening: bata y gorro 
 
-
-## Rutina el box
-Música de entrada 
-Presentación de cada contendiente con canción 
-
-Resortes para las cuerdas 
-
-Presentación del retador y luego el campeón 
-(20 kilos de pellejo)
-(Campeón mundial)
-Bermuda grande 
-
-Instrucciones: no se valen golpes bajos 
-
-Choque de guantes se cae el retador 
-
-Corretea no huyas cobarde 
-No me sigas valiente 
-
-Suena la campana 
-
-Golpe 1 golpe 2 golpe 3 y sigue 4-5-6
-Pero solo te enseñe hasta el 3
-
-Empieza la pelea 
-Empieza la pelea 
-
-1-2-3 pi pum 
-1-2-3 pi pum 
-
-Ya no juego, por qué solo el me pega 
-Pues tú también pégale 
-
-El me enseñó el 4-5 del pi pum 
-
-Lo tira y le patea 
-
-Al hombre caído no se le pega 
-
-Pega y se tira x3
-
-No sé le pega pero si se le pisa 
-
-Camara lenta 
-
-Lo volé la cabeza y solo se le ven los hombros 
-
-Camara rápida 
