@@ -9,6 +9,7 @@ title: Lista de materias
 
 ## Administración empresarial 
 
+
 ## Lógica de programación 101-NAU
 [[Ejercicio-1-pseudocodigo]]
 [[Ejercicio-2-pesudocodigo]]
@@ -22,3 +23,4 @@ title: Lista de materias
 
 ## Grupo de estudio
 [[Sesion-1-grupo-estudio]]
+

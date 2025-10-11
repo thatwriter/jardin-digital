@@ -23,7 +23,7 @@ También espero más adelante integrar
 - [x] Escrito para tonino: incluir un grupo con historia y trayectoria seguro social, Rafael solana, José marti, legaría foros culturales y casas de cultura
 - [x] Viernes ir con tonino 
 - [x] Hacer la nueva publicidad ✅ 2025-09-24
-- [ ] Escribir la rutina "el box"
+- [x] Escribir la rutina "el box" ✅ 2025-10-07
 
 ---
 ## Recursos escénicos 
