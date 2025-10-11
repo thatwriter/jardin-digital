@@ -1,5 +1,5 @@
 ---
-tit: Profesores de Semestre 1
+title: Profesores de Semestre 1
 ---
 # Administración Empresarial
 Universidad Nacional Rosario Castellanos Naucalpan

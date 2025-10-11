@@ -10,3 +10,14 @@ title: Herramientas y utilidades
 - Para descargar contenido audiovisual libre de derechos de autor: https://pixabay.com/
 - Agregar fotos (google fotos) a páginas web: https://www.labnol.org/embed/google/photos
 
+
+## Proceso de venta
+1. Proponer mejora.
+2. Gatillo de congruencia.
+3. Personalizar el discurso.
+4. Justificar el precio.
+5. Dar confianza.
+6. Aprobar eleccion.
+7. Usar el Cross Seling.
+Fuente: https://youtube.com/shorts/bF_CPsi0GOo?si=XH83EDNrgfxYPQ4G
+

@@ -1,5 +1,5 @@
 ---
-titl: Clase 4 Ejercicio 3
+title: Clase 4 Ejercicio 3
 ---
 43 Se desea calcular el salario semanal de
 varios empleados bajo las siguientes
