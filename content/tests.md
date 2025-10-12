@@ -27,5 +27,5 @@ Yo xd
 ![image|500](https://lh3.googleusercontent.com/pw/AP1GczPyZgP8PAeEHo8Gj_vcsLnNUxIOy1pTPXXuo5JGwMu6E7x2FAJyUuDnWab9vfHayHy3tfnBgXdng7JJ6OCl9AIClAvksr2O2USzl6NvUupt5ILSAeIu=w2400)
 
 
-## Dashboard
-<iframe width="600" height="450" src="https://lookerstudio.google.com/embed/reporting/0ca13663-5b88-465a-bbf5-a59d3b455874/page/6DsaF" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+## Dashboard 
+Esta era una prueba de un dashboard en looker studio, pero al parecer rompe todo 
