@@ -107,6 +107,8 @@ También espero más adelante integrar
 	- https://vt.tiktok.com/ZSUdpDmFN/
 	- https://vt.tiktok.com/ZSUdg2fw7/
 	- https://vt.tiktok.com/ZSUdgHy3r/
+- malabares: 
+	- bone breaking: https://www.instagram.com/reel/DPG5J7aimDK/?igsh=OWRzZTRiZ2Y2YTk=
 ****
 ## Tipos de reuniones 
 1. Ensayo

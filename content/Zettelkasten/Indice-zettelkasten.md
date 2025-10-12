@@ -50,3 +50,7 @@ title: Índice de todas las notas
 - [[B35#There is no next thing]]
 - [[B36#If you can't control your posture, can't control your mind ]]
 - [[A11#Debes tener un motivo para hacer la acción]]
+- [[A12#Deductivo de la mayoria a uno]]
+- [[A13#Inductivo Uno para todos]]
+- [[A14#Si no es mío, lo digo]]
+- [[A15#Multiplicar por 0 es 0]]
