@@ -1,7 +1,6 @@
 ---
-title: Índice de todas las notas
+title: Índice de todas las notas permanentes
 ---
-
 ## Notas
 - [[A1#Hacer visual el avance]]
 - [[A2#Citar en APA "YouTube"]]
@@ -54,3 +53,7 @@ title: Índice de todas las notas
 - [[A13#Inductivo Uno para todos]]
 - [[A14#Si no es mío, lo digo]]
 - [[A15#Multiplicar por 0 es 0]]
+- [[A16#La biología logro la teoría de sistemas]]
+- [[A17#Las cooperativas son empresas comunitarias]]
+- [[A18#Economía Circular, sostenimiento en crisis]]
+- [[A19#Hay datos en todos lados]]
