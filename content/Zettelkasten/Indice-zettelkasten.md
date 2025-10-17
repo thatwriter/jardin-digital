@@ -57,3 +57,5 @@ title: Índice de todas las notas permanentes
 - [[A17#Las cooperativas son empresas comunitarias]]
 - [[A18#Economía Circular, sostenimiento en crisis]]
 - [[A19#Hay datos en todos lados]]
+- [[B37#Siguiendo al libre, no se es libre]]
+- [[A20#Es mejor hecho que perfecto]]

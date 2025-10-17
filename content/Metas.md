@@ -26,3 +26,5 @@ title: Metas
 - [x] Hacer árbol genealógico [[d2025-09-27#Árbol genealógico]] ✅ 2025-10-03
 - [ ] Escribir 2 hermanos de mi papa
 - [ ] escribir 2 hermanas de mi mamá 
+- [ ] Tomar curso de Blender: https://www.youtube.com/watch?v=A5CSKoCNMbU
+- [ ] Hacer un corto de 1 minuto 
