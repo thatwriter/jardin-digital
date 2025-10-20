@@ -39,6 +39,7 @@ Aquí están las notas:
 ## Herramientas interesantes
 Como parte de mi proceso de aprendizaje y experimentación, compartiré (también para guardar) las herramientas que he utilizado
 [[Herramientas]]
+[[Glosario]]
 
 ---
 ## Semillero Creativo

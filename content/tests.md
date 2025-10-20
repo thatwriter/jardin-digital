@@ -26,6 +26,3 @@ https://pin.it/NlI7HjRvU
 Yo xd
 ![image|500](https://lh3.googleusercontent.com/pw/AP1GczPyZgP8PAeEHo8Gj_vcsLnNUxIOy1pTPXXuo5JGwMu6E7x2FAJyUuDnWab9vfHayHy3tfnBgXdng7JJ6OCl9AIClAvksr2O2USzl6NvUupt5ILSAeIu=w2400)
 
-
-## Dashboard 
-Esta era una prueba de un dashboard en looker studio, pero al parecer rompe todo 

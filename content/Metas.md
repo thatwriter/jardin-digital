@@ -25,6 +25,7 @@ title: Metas
 - [x] Hacer mi album de fotos online ✅ 2025-09-27
 - [x] Hacer árbol genealógico [[d2025-09-27#Árbol genealógico]] ✅ 2025-10-03
 - [ ] Escribir 2 hermanos de mi papa
-- [ ] escribir 2 hermanas de mi mamá 
+- [ ] escribir 2 hermanas de mi mamá
 - [ ] Tomar curso de Blender: https://www.youtube.com/watch?v=A5CSKoCNMbU
 - [ ] Hacer un corto de 1 minuto 
+- [ ] Proyector y hacer proyecciones con mad map https://www.instagram.com/reel/DP3reDUDSn8/?igsh=MTkwaDlhN2FmeWIyaA==

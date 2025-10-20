@@ -24,6 +24,9 @@ title: Lista de materias
 [[Clase-6-ejercicios]]
 [[Clase-7-ejercicios]]
 [[Clase-7-Condicionales]]
+
+## Matemáticas Discretas y sus aplicaciones
+[[C20-10-2025]]
 ## Geometría analítica
 [[Tarea-1-forms-GA]]
 
@@ -58,3 +61,4 @@ title: Lista de materias
 | 8:00-10:00  | [Matemáticas discretas y sus aplicaciones ](https://meet.google.com/pew-nckd-nkc) | [Geometría analítica](https://cuaed-unam-mx.zoom.us/j/7479778225) | [Perspectiva de género para el diseño social](https://classroom.google.com/u/2/c/ODA1MDc3NzY1NTY0) | [Perspectiva de género para el diseño social](https://classroom.google.com/u/2/c/ODA1MDc3NzY1NTY0) | Libre                                                                             |
 | 10:00-12:00 | [Administración empresarial](https://classroom.google.com/u/2/c/ODAyMjgyMTM0ODEz) | [Ciencia de datos](https://meet.google.com/xmt-vkgu-daw)          | Libre                                                                                              | [Ciencia de datos](https://meet.google.com/ney-jegx-sgb)                                           | [Lógica de programación](https://classroom.google.com/u/2/c/ODExMTEyNzQ5OTE0)     |
 | 12:00-14:00 | [Lógica de programación](https://classroom.google.com/u/2/c/ODExMTEyNzQ5OTE0)     | [Geometría analítica](https://cuaed-unam-mx.zoom.us/j/7479778225) | [Geometría analítica](https://cuaed-unam-mx.zoom.us/j/7479778225)                                  | [Administración empresarial](https://classroom.google.com/u/2/c/ODAyMjgyMTM0ODEz)                  | [Matemáticas discretas y sus aplicaciones ](https://meet.google.com/pew-nckd-nkc) |
+
