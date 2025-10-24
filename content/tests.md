@@ -26,3 +26,8 @@ https://pin.it/NlI7HjRvU
 Yo xd
 ![image|500](https://lh3.googleusercontent.com/pw/AP1GczPyZgP8PAeEHo8Gj_vcsLnNUxIOy1pTPXXuo5JGwMu6E7x2FAJyUuDnWab9vfHayHy3tfnBgXdng7JJ6OCl9AIClAvksr2O2USzl6NvUupt5ILSAeIu=w2400)
 
+
+
+$M: \text{magnitud de un vector}$
+$n:\text{dimensiones}$
+$M=\sqrt {a_1+...+a_n}$

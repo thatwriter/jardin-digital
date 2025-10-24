@@ -45,8 +45,9 @@ Como parte de mi proceso de aprendizaje y experimentación, compartiré (tambié
 ## Semillero Creativo
 Estoy en un taller: [[semillero-creativo-naucalpan|Semillero Creativo]] en el cual se desarrollan habilidades audiovisuales, para impactar el entorno en el que estoy actualmente (Naucalpan).
 
-Aquí estoy desarrollando mi proyecto de Podcast, ve a verlo :3 (Por si hay algún comentario en espacio para pruebas)
-****
+Aquí estoy desarrollando mi proyecto de Podcast, ve a verlo :3 
+
+---
 ## Libreta digital Universidad
 Logré entrar en la uni así que necesito un espacio aqui.
 [[Materias|Aquí anotaré esas cosas]]
@@ -55,6 +56,15 @@ Logré entrar en la uni así que necesito un espacio aqui.
 ## Datos interesantes 
 
 [[Facts|Datos intersantes]]
+
+
+---
+
+## Proceso de aprendizaje de Toki Pona 
+[[Abecedario]]
+[[Diccionario]]
+
+---
 
 ## Sección de comentarios 
 <div id="cusdis_thread"
