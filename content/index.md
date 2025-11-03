@@ -63,6 +63,7 @@ Logré entrar en la uni así que necesito un espacio aqui.
 
 ## Proceso de aprendizaje de Toki Pona 
 [[Abecedario]]
+
 [[Diccionario]]
 
 ---
