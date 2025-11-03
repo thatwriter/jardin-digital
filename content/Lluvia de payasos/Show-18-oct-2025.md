@@ -1,5 +1,5 @@
 ---
-title: Organización del show 26 de Octubre 2025 - cambió la fecha-
+title: Organización del show 26 de Octubre 2025, cambio de fecha
 ---
 Ubicación: salón en Zomeyucan
 
