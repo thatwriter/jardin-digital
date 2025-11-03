@@ -2,7 +2,8 @@
 title: Dashboard de tareas
 ---
 ## Pendientes
-```tasks
+```
+tasks
 not done
 group by path
 short mode
