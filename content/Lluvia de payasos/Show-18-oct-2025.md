@@ -1,5 +1,5 @@
 ---
-title: Organización del show 18 de Octubre 2025
+title: Organización del show 26 de Octubre 2025
 ---
 Ubicación: salón en Zomeyucan
 
