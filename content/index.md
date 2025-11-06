@@ -1,5 +1,5 @@
 ---
-title: Bienvenido a mi jardin
+title: Bienvenido a mi jardín digital
 ---
 
 Estás por iniciar una experiencia digital, que puede que sea cambiante, muy constantemente, por que es como un jardín, todo está en proceso.
