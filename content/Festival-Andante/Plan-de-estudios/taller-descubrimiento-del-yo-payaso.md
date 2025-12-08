@@ -1,5 +1,5 @@
 ---
-title: Taller descubrimiento del yo payaso
+title: 06 Taller descubrimiento del yo payaso
 ---
 ## **título**
 Contenido
