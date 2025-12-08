@@ -1,5 +1,5 @@
 ---
-title:
+title: Vestuario
 ---
 ## **título**
 Contenido

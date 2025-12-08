@@ -1,5 +1,5 @@
 ---
-title:
+title: Payaso Socioeducativo
 ---
 ## **título**
 Contenido
