@@ -9,6 +9,9 @@ title: Herramientas y utilidades
 - Para tomar notas de una manera cool: https://obsidian.md/
 - Para descargar contenido audiovisual libre de derechos de autor: https://pixabay.com/
 - Agregar fotos (google fotos) a páginas web: https://www.labnol.org/embed/google/photos
+- Correr C# online https://microsoftlearning.github.io/c-sharp-minor/
+- aprender C# https://www.freecodecamp.org/learn
+- 
 
 
 ## Proceso de venta

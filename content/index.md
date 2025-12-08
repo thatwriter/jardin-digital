@@ -5,14 +5,18 @@ title: Bienvenido a mi jardín digital
 Estás por iniciar una experiencia digital, que puede que sea cambiante, muy constantemente, por que es como un jardín, todo está en proceso.
 
 ---
-## Proyecto: Payaso [[Payaso Chunkito/Chunkito|Chunkito]]
+## Proyecto: Payaso [[Payaso-Chunkito/Chunkito|Chunkito]]
 
 
-Soy [[Payaso Chunkito/Chunkito|Chunkito]], me presento, un payaso autodidacta, que hace videos para redes sociales, busca difundir el ~~para mi~~ preciado arte del **PAYASO**.
+Soy [[Payaso-Chunkito/Chunkito|Chunkito]], me presento, un payaso autodidacta, que hace videos para redes sociales, busca difundir el ~~para mi~~ preciado arte del **PAYASO**.
 
 Acompáñame en este proceso ~~ojalá~~ sin fin. 
 
 Integrante de [[pagina-principal-lluvia|Lluvia de Payasos]]
+
+---
+## Proyecto: Festival Andante
+[[filosofia-organizacional]]
 
 ---
 ## Proyecto: Escritura
@@ -67,7 +71,10 @@ Logré entrar en la uni así que necesito un espacio aqui.
 [[Diccionario]]
 
 ---
+## Proyecto Willy Cuchuflais
+[[Proyecto-Willy-Cuchuflais]]
 
+---
 ## Sección de comentarios 
 <div id="cusdis_thread"
   data-host="https://cusdis.com"

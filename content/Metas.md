@@ -20,12 +20,14 @@ title: Metas
 - [ ] Limpiar mis bóvedas de obsidian
 - [x] Grabar video 1 de Chunkito
 - [x] Hacer agradable visualmente la página de lluvia de payasos ✅ 2025-10-01
-- [ ] Grabar video 2 de Chunkito 
+- [x] Grabar video 2 de Chunkito ✅ 2025-11-23
 - [ ] Grabar tik tok de carablanca
 - [x] Hacer mi album de fotos online ✅ 2025-09-27
 - [x] Hacer árbol genealógico [[d2025-09-27#Árbol genealógico]] ✅ 2025-10-03
-- [ ] Escribir 2 hermanos de mi papa
-- [ ] escribir 2 hermanas de mi mamá
+- [x] Escribir 2 hermanos de mi papa ✅ 2025-11-23
+- [x] escribir 2 hermanas de mi mamá ✅ 2025-11-23
 - [ ] Tomar curso de Blender: https://www.youtube.com/watch?v=A5CSKoCNMbU
 - [ ] Hacer un corto de 1 minuto 
 - [ ] Proyector y hacer proyecciones con mad map https://www.instagram.com/reel/DP3reDUDSn8/?igsh=MTkwaDlhN2FmeWIyaA==
+- [ ] https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
+- [ ] https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft#write-your-first-code-using-c-sharp

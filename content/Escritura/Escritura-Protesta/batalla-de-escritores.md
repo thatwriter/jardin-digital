@@ -1,0 +1,31 @@
+---
+title: Batalla de consejo mundial de verso Libre
+---
+Fuentes:
+1. El chico que se aventó de los arcos y murió https://heraldodemexico.com.mx/nacional/2025/7/25/captan-en-video-la-muerte-de-un-hombre-tras-lanzarse-de-los-arcos-de-naucalpan-717744.html
+2. La subida del precio del transporte público https://elpais.com/mexico/2025-10-15/el-gobierno-del-estado-de-mexico-aumenta-la-tarifa-al-transporte-publico-en-medio-de-protestas-y-negociaciones-con-transportistas.html
+3. Seguimos siendo el municipio con más feminicidios https://www.infobae.com/mexico/2025/10/09/entre-violencia-y-desapariciones-naucalpan-sigue-siendo-uno-de-los-lugares-mas-inseguros-para-las-mujeres-en-mexico/
+4. Fuimos y seguimos siendo un (mal) ejemplo en las películas (bad Boys) https://www.infobae.com/mexico/2024/06/25/asi-luce-hoy-la-zona-de-naucalpan-donde-will-smith-grabo-la-pelicula-hollywoodense-bad-boys/
+5. lo mejor que nos ha pasado es un intento de festival y el grupo principal, ni es mexicano https://festival4casas.com.mx/
+6. Estamos tan chingados que ya nos volvimos epicentro de sismos y la gente sigue pensando que son explosiones de tanques de gas https://heraldodemexico.com.mx/nacional/2025/8/5/doble-microsismo-de-13-12-impactan-naucalpan-hoy-martes-de-agosto-720395.html
+7. la policía logró bajar un 1% los robos de vehículos, por que se cansaron de que les roben las patrullas  https://naucalpan.gob.mx/a-la-baja-en-21-6-incidencia-delictiva-en-naucalpan-resultado-de-la-estrategia-de-seguridad/
+8. ahora resulta que el gobierno se apropió hasta de mi gato (aunque solo aplica para CDMX) https://www.infobae.com/mexico/2024/04/03/curp-para-mascotas-cuales-son-los-beneficios-de-registrar-a-mis-perros-y-gatos-en-el-ruac/ 
+
+Fuentes:
+1. somos el primer estado aparte de la cdmx con una universidad gratuita, Rosario Castellanos https://www.infobae.com/mexico/2025/09/09/universidad-nacional-rosario-castellanos-inaugura-su-campus-en-naucalpan/
+2. ya tenemos una mascota para la la conscientización del agua https://naucalpan.gob.mx/presenta-gobierno-de-naucalpan-a-chiquino-para-promover-la-cultura-del-cuidado-del-agua-y-del-medio-ambiente/
+3. ya tenemos un 20% menos de homicidios dolosos: https://naucalpan.gob.mx/en-naucalpan-disminuye-20-homicidio-doloso-a-110-dias-de-la-implementacion-de-la-eoo/
+4.  se están realizando limpiezas de ríos  https://naucalpan.gob.mx/realiza-gobierno-de-naucalpan-jornada-de-limpieza-en-el-rio-verde-suman-esfuerzos-en-trabajos-preventivos/
+5. ya se está construyendo la 3er línea de mexicable https://naucalpan.gob.mx/linea-3-del-mexicable-con-avance-en-las-10-estaciones-que-lo-conforman-sera-un-legado-historico-isaac-montoya/
+6. y sobre todo, estamos todos nosotros en él ❤ ¿pus yo, qué no me ven?
+
+
+
+Hoy desperté por un temblor en la madrugada, se escuchó como una explosión, en las noticias no aparecía nada, entré a facebook y un par de personas publicaron en el grupo de la colonia que afirmaban que era un tanque de gas que había explotado, me asomé para ver si alguien más estaba afuera, pero nada, solo escuché el ruido de alguien gritando, pero para evitarme problemas me volví a acostar. No podía dormir así volví a abrir facebook, empecé a ver varias veces el mismo video en el que un chico se había lanzado de los arcos, en los comentarios decían que sabían quien era, una y otra vez, cada vez con nombres diferentes, me di cuenta que la gente en realidad no sabe quien es, sino que le adjudica el nombre de aquella persona que necesita ser escuchada, la historia de alguien a quien le hacían bullying en la escuela, la historia de alguien a quien dejó su novia, la historia de alguien a quien su papá le pegaba. En fin, el mismo cuento de que exista un chivo expiatorio por que no somos capaces de hacer nada por quienes más lo necesitan, básicamente esa misma historia de: sé que algo está pasando, pero no hago nada
+¿Pero no todo es tan malo verdad? Al fin y al cabo ya salimos en una película, todos vimos las grandes cámaras y a todos los actores en la comodidad de nuestras calles, no tiene nada que ver que ellos estén peleando con narcotraficantes y asesinos, como dos policias, por que al fin y al cabo, es mi naucalpan.
+Pero ya me voy a dormir por que mañana hay un festival en el Naucalli, yo solo voy por la única banda que conozco, claramente son mexicanos, hablan español, obvio son mexicanos Los caligaris.
+
+
+Que mal sabor de boca me deja estar así, entre tanta mediocridad, de comunicación, de acciones, de gente, y no lo digo por que quiera ofender, sino por definir, no entiendo en verdad lo mucho que se puede hacer con tan poco, un par de palabras, un par de fotos, un par de lo que sea menos quedarnos sentados en nuestro sillón viendo facebook.
+Es importante entender lo bueno que tiene nuestro municipio, basta con voltear a ver la nueva universidad en los cipreses, que además es gratuita, el gobierno nos creó una mascota para recordarnos que cuidar el agua es algo de todos, logramos una disminución del 20% en homicidios dolosos, se implementaron limpiezas a ríos, específicamente en río verde, también están construyendo la línea 3 del mexicable, justamente en naucalpan, en donde estamos tu y yo que estas escuchando esto, es un recordatorio para que en verdad aprecies lo que significa estar aquí, por que es muy fácil ver lo malo que tiene algo, pero es mejor ver lo bueno, y no claro que no digo que hay que ser optimistas, que todo va a mejorar por que me ponga a rezar, tampoco, me refiero más bien que si yo conozco a alguien que hace algo malo, me aleje de él, me reconecte con quien hace el bien, por que somos más con quienes nos juntamos, por eso estoy aquí, por que sé que vamos a hablar de lo que ocurre en el mundo y más importante de lo que ocurre en nuestros corazones y esa lucha es la más importante, por que nos hace los más vulnerables, por que somos más honestos y con menos máscaras, y con ello enfrentamos al mundo, por que somos quienes escribimos, por que somos quienes hablamos y por que sé que la batalla ya está ganada, por que cuando defines el problema, ya resolviste el 80% de él
+Pa' pronto: déjame vivir y atrévete a vivir 

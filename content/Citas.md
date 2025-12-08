@@ -2,3 +2,15 @@
 title: Citas que me resultaron interesantes
 ---
 “In a sense, one can never read the book that the author originally wrote, and one can never read the same book twice.” —Edmund Wilson
+
+Investigar es la motivación, como científico quieres descubrir algo -Ken Libbrecht
+Fuente: https://youtu.be/wj5oURHHs1s?si=0759qgGyqPdiRVdd
+
+Lo desconocido es la tierra fértil, dónde brotan nuevas ideas -Topos Atípicos 
+Fuente: https://youtu.be/C9R9JlwBsJk?si=77XW8jtVorgtCnNP
+
+"The hardest part of software development is naming things." - 
+Fuente: https://learn.microsoft.com/en-us/training/modules/csharp-readable-code/2-choose-variable-names
+
+Your future self will thank you. 
+https://learn.microsoft.com/en-us/training/modules/csharp-readable-code/3-exercise-comment-code

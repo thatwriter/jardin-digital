@@ -16,3 +16,10 @@ title: Escritos
 `Estatus: En proceso`
 - Proyecto 4 ~~Secreto~~ 
 - [[proyecto-historia-central|Nombre pendiente]]
+
+----
+## Escritos sobre la situación actual
+`Estatus: En proceso`
+
+
+[[batalla-de-escritores]]

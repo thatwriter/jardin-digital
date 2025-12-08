@@ -63,3 +63,4 @@ title: Lista de materias
 | 12:00-14:00 | [Lógica de programación](https://classroom.google.com/u/1/c/ODExMTEyNzQ5OTE0?pli=1) | [Geometría analítica](https://cuaed-unam-mx.zoom.us/j/7479778225) | [Geometría analítica](https://cuaed-unam-mx.zoom.us/j/7479778225)                                  | [Administración empresarial](https://classroom.google.com/u/2/c/ODAyMjgyMTM0ODEz)                  | [Matemáticas discretas y sus aplicaciones ](https://meet.google.com/pew-nckd-nkc)   |
 
 
+4280

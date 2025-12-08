@@ -1,9 +1,8 @@
 ---
 title: Espacio para pruebas
 ---
-Si algo no funciona o se rompe, ocurrirá primero aquí xD
+Si algo no funciona o se rompe, ocurrirá primero aquí xD ~~esa es una gran mentira, cuando algo se rompe, todooooo se cae :C xDD~~
 
-Esto debe mostrar un podcast de Spotify (Spoiler)
 ~~alch pinche spotify por andar financiando guerras~~* Ya ando en un podcast pero está 
 
 ~~por que soy medio flojo y se me olvida, este es el comando para sincronizar desde codespaces: npx quartz sync~~ Ya no lo ocupo por que ya tengo github desktop xDD
@@ -22,9 +21,6 @@ Termoformar pet: https://www.facebook.com/share/r/1A6JCbtss9/
 
 ---
 https://pin.it/NlI7HjRvU
-
-Yo xd
-![image|500](https://lh3.googleusercontent.com/pw/AP1GczPyZgP8PAeEHo8Gj_vcsLnNUxIOy1pTPXXuo5JGwMu6E7x2FAJyUuDnWab9vfHayHy3tfnBgXdng7JJ6OCl9AIClAvksr2O2USzl6NvUupt5ILSAeIu=w2400)
 
 
 

@@ -28,8 +28,10 @@ Debido a que actualmente ~~y siempre~~ el mundo del payaso ha tenido poca visibi
 
 
 Así que estoy escribiendo los siguientes ensayos 
-1. [[Payaso Chunkito/Ensayo-1|Si la clasificación de cada payaso es una respuesta artística del contexto social, ¿Cuál es la pregunta que no nos estamos haciendo?]]
+1. [[Payaso-Chunkito/Ensayo-1|Si la clasificación de cada payaso es una respuesta artística del contexto social, ¿Cuál es la pregunta que no nos estamos haciendo?]]
 2. [[Ensayo-2|El nuevo payaso]]
 
-Estoy realizando una investigación, en la cual, estaré guardando el avance en [[Historia-del-payaso|Historia del payaso]]
+Estoy realizando una investigación, en la cual, estaré guardando el avance en [[Payaso-Chunkito/Historia-del-payaso|Historia del payaso]]
 
+
+Hice una rutina para una competencia en Naucalpan [[Rutiona-telefono]]
