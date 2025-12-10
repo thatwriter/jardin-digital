@@ -24,3 +24,24 @@ title: Herramientas y utilidades
 7. Usar el Cross Seling.
 Fuente: https://youtube.com/shorts/bF_CPsi0GOo?si=XH83EDNrgfxYPQ4G
 
+
+
+Audio para Efectos (lluvia de payasos ): 
+AudioForge
+https://play.google.com/store/apps/details?id=com.slashpaf.audioforge
+
+Editor de video: 
+Vita
+https://play.google.com/store/apps/details?id=com.snowcorp.vita
+
+Imágenes de inspiración cool: 
+Cosmos
+https://play.google.com/store/apps/details?id=so.cosmos.www
+
+Compartir archivos mediante navegador(servidor local)
+Transfer
+https://play.google.com/store/apps/details?id=com.matanh.transfer
+
+Borrar objetos de fotos 
+TouchRetouch
+https://play.google.com/store/apps/details?id=com.advasoft.touchretouch

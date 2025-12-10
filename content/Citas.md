@@ -14,3 +14,11 @@ Fuente: https://learn.microsoft.com/en-us/training/modules/csharp-readable-code/
 
 Your future self will thank you. 
 https://learn.microsoft.com/en-us/training/modules/csharp-readable-code/3-exercise-comment-code
+
+> Well done is better than well said
+> -Benjamin Franklin
+> https://www.freecodecamp.org/learn/
+
+>By failing to prepare, you are preparing to fail.
+>Benjamin Franklin
+>https://www.freecodecamp.org/learn/

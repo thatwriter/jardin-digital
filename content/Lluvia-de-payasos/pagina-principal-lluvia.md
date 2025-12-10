@@ -116,7 +116,4 @@ También espero más adelante integrar
 3. Lluvia de ideas (ensayo de mesa)
 4. 
 ---
-## Procesos de expansión 
-
-Buscando un lugar más grandes tuvimos reunión y entregamos un escrito (Lo deje solo en mi drive personal por qué tiene datos personales sensibles)
-
+Actualmente 10/12/2025 tengo una propuesta para que el grupo sufra una transformación, completamente necesaria, por lo que realizaré un proceso de escritura en la siguiente [[propuestaChunkito]]
