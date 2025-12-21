@@ -32,9 +32,11 @@
     let fileInput = await tp.system.prompt("Ingresa el nombre del archivo:");
     -%>---
 title: <% titleInput %>
-fecha de captura: <% tp.date.now("YYYY-MM-DD") %>
-contexto: <% contextInput %>
-nombre del archivo:  <% fileInput %>
 ---
-## **<% titleInput %>**
+fecha de captura: <% tp.date.now("YYYY-MM-DD") %>
+
+contexto: <% contextInput %>
+
+nombre del archivo: <% fileInput %>
+
 ![img](<% linkInput %>)
