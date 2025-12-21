@@ -11,6 +11,7 @@ title: Herramientas y utilidades
 - Agregar fotos (google fotos) a páginas web: https://www.labnol.org/embed/google/photos
 - Correr C# online https://microsoftlearning.github.io/c-sharp-minor/
 - aprender C# https://www.freecodecamp.org/learn
+- Transcribir notas de voz online https://whisper-web-two.vercel.app/
 - 
 
 
@@ -45,3 +46,4 @@ https://play.google.com/store/apps/details?id=com.matanh.transfer
 Borrar objetos de fotos 
 TouchRetouch
 https://play.google.com/store/apps/details?id=com.advasoft.touchretouch
+
