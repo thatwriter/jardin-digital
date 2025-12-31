@@ -23,3 +23,11 @@ https://learn.microsoft.com/en-us/training/modules/csharp-readable-code/3-exerci
 >Benjamin Franklin
 >https://www.freecodecamp.org/learn/
 
+>-I all I ever gave you is was a hammer - Louise Banks
+>-Everythins a nail - Colonel Weber
+>film Arrival (2016) 1:04:50
+
+>La realidad no se trata solamente de ser capaz de resolver las cosas. Eso es puro utilitarismo y no somos seres utilitarios.
+>[[s3]]
+>Edgar Jaramillo (Diciembre 2025)
+>

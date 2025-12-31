@@ -1,7 +1,7 @@
 <%*
     // --- CONFIGURACIÓN ---
     const folderPath = "Recursos/Audios";
-    const filePrefix = "S";
+    const filePrefix = "s";
     
     // --- GENERAR NÚMERO Y RENOMBRAR ---
     let files = app.vault.getFiles();

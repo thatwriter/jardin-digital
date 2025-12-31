@@ -30,9 +30,13 @@ $M=\sqrt {a_1+...+a_n}$
 ![](https://lh3.googleusercontent.com/pw/AP1GczP5GOtQNO3shJwEbzHIeaG_IXZbbDkWyubGQ2zQgA981ZY5gMMhK-cH4ajNQGHKj4O1_ppq5XoRSifqZYccupo2AHa_7LDpl00-f7K0oE3YC7TveoKO0a51r2eRTKnDwyC4MeizISuKyoa2vIfRCxiilQ=w399-h709-s-no-gm?authuser=1)
 
 [Link a Archivo de Audio](https://drive.google.com/file/d/1nCwLiTKmYuVcIrx8LEbbl_eVOamfBNBx/view?usp=sharing)
-![[I1]]
+![[Recursos/Imagenes/I1]]
 
 *El siguiente texto me tomó como 20 minutos revisarlo, más el tiempo que se tardó en configurar y procesar el modelo (corriendo en el navegador) a partir del audio de 4:33 de duración* 
-![[S1]]
+![[s1]]
 
 Nota: ya han sido varias veces que exporto un pdf a partir de este espacio en obsidian, si requiere un par de configuraciones, pero lo sigo viendo viable, adicional, en la web, no está pensado para exportar, sino para navegar, por lo que no pienso configurar una vista para impresión (aunque ya intenté justificar el texto, pero fallé cruelmente jajaja). 
+
+
+poor que solo no quiero que se quede por ahí:
+![[s1]]
