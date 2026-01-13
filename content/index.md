@@ -71,8 +71,9 @@ Logré entrar en la uni así que necesito un espacio aqui.
 [[Diccionario]]
 
 ---
-## Proyecto Willy Cuchuflais
+## Proyectos laborales (emprendimiento)
 [[Proyecto-Willy-Cuchuflais]]
+[[Propuesta-general]]
 
 ---
 ## Sección de comentarios 

@@ -12,8 +12,14 @@ title: Herramientas y utilidades
 - Correr C# online https://microsoftlearning.github.io/c-sharp-minor/
 - aprender C# https://www.freecodecamp.org/learn
 - Transcribir notas de voz online https://whisper-web-two.vercel.app/
-- 
+- Aprender/ usar SQL https://mystery.knightlab.com/
+- descargar videos de youtube enero 2026 https://yt1s.com.co/
+- visuales para música https://webvis.app/
 
+
+- ~~descargar libros [welib](https://welib.org/)~~
+- ~~zlib~~
+- https://chat.qwen.ai/s/t_50390d7d-850f-4360-84f2-a18a49d26b35?fev=0.1.32
 
 ## Proceso de venta
 1. Proponer mejora.
@@ -26,24 +32,33 @@ title: Herramientas y utilidades
 Fuente: https://youtube.com/shorts/bF_CPsi0GOo?si=XH83EDNrgfxYPQ4G
 
 
+## **Aplicaciones**
+>[!Important] Audio para Efectos (lluvia de payasos ): 
+>
+>AudioForge
+>
+>https://play.google.com/store/apps/details?id=com.slashpaf.audioforge
 
-Audio para Efectos (lluvia de payasos ): 
-AudioForge
-https://play.google.com/store/apps/details?id=com.slashpaf.audioforge
+>[!Important] Editor de video: 
+>
+>Vita
+>
+>https://play.google.com/store/apps/details?id=com.snowcorp.vita
 
-Editor de video: 
-Vita
-https://play.google.com/store/apps/details?id=com.snowcorp.vita
+>[!Important] Imágenes de inspiración cool: 
+>
+>Cosmos
+>
+>https://play.google.com/store/apps/details?id=so.cosmos.www
 
-Imágenes de inspiración cool: 
-Cosmos
-https://play.google.com/store/apps/details?id=so.cosmos.www
+>[!Important] Compartir archivos mediante navegador(servidor local)
+>
+>Transfer
+>
+>https://play.google.com/store/apps/details?id=com.matanh.transfer
 
-Compartir archivos mediante navegador(servidor local)
-Transfer
-https://play.google.com/store/apps/details?id=com.matanh.transfer
-
-Borrar objetos de fotos 
-TouchRetouch
-https://play.google.com/store/apps/details?id=com.advasoft.touchretouch
-
+>[!tip] Borrar objetos de fotos 
+>
+>TouchRetouch
+>
+>https://play.google.com/store/apps/details?id=com.advasoft.touchretouch

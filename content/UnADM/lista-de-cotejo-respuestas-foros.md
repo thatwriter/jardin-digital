@@ -1,0 +1,14 @@
+---
+title: "Lista de cotejo\rpara réplicas en los\rforos"
+---
+## **título**
+
+| Elementos                                                                                                                                                                                                                                                                       | Cuenta con | el elemento |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- |
+|                                                                                                                                                                                                                                                                                 | Si         | No          |
+| Contiene un saludo inicial a las personas del foro.                                                                                                                                                                                                                             |            |             |
+| La réplica corresponde al propósito académico con el que fue creado y contiene las respuestas a ==todas== las preguntas guía del foro.                                                                                                                                          |            |             |
+| Las respuestas a cada una de las preguntas guía incorpora ideas relevantes y fundamentadas que reflejan un análisis crítico y una comprensión adecuada del tema, evitando respuestas cortas o monosilábicas (sí, no, tal vez, depende…) y con formulaciones poco desarrolladas. |            |             |
+| La réplica es respetuosa y empática, demostrando consideración hacia las ideas expresadas por otras personas.                                                                                                                                                                   |            |             |
+| La réplica está desarrollada de forma clara y estructurada, además, su escritura está basada en las normas, reglas gramaticales y ortográficas.                                                                                                                                 |            |             |
+| Contiene una despedida a las personas del foro al cerrar la participación.                                                                                                                                                                                                      |            |             |

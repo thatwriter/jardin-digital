@@ -24,3 +24,9 @@ Cultura: Noticias
 [[Tarea-fotografias]]
 
 [[Fotos-26-sep-2025-test]]
+
+[[fotos-7-10-2025]]
+
+[[fotos-2025-12-9]]
+
+

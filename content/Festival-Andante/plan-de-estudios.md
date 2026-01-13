@@ -2,8 +2,6 @@
 title: "Plan de estudios: Festival Andante"
 ---
 ### **Plan de Estudios: Festival Andante**
-
-
 Materias
 - [[historia-del-payaso]]
 - [[creacion-de-personaje]]

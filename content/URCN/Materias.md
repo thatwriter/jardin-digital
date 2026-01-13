@@ -9,6 +9,7 @@ title: Lista de materias
 
 ## Administración empresarial 
 [[Ensayo-videojuego-Inside]]
+[[tabla-comparativa-metodologias-agiles]]
 
 ## Lógica de programación 101-NAU
 [[Ejercicio-1-pseudocodigo]]
@@ -24,6 +25,7 @@ title: Lista de materias
 [[Clase-6-ejercicios]]
 [[Clase-7-ejercicios]]
 [[Clase-7-Condicionales]]
+[[clase-8-ejercicios]]
 
 ## Matemáticas Discretas y sus aplicaciones
 [[C20-10-2025]]
@@ -32,6 +34,9 @@ title: Lista de materias
 
 ## Grupo de estudio
 [[Sesion-1-grupo-estudio]]
+
+## **Proyecto prototípico**
+[[Proyecto-pototipico]]
 
 ## Horario
 - lunes: 

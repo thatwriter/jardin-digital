@@ -9,3 +9,14 @@ Página de compra en México: https://www.mercadolibre.com.mx/kit-modulo-rf-433m
 
 Proyecto de ejemplo 1: https://www.instructables.com/RF-433MHZ-Radio-Control-Using-HT12D-HT12E-Making-a/
 proyecto de ejemplo 2: https://jhansvelez.wixsite.com/telemetria/post/m%C3%B3dulos-rf-433mhz-y-chips-ht12d-ht12e
+
+Materiales
+Cautín
+pasta
+soldadura
+multimetro
+resistencias
+cable 
+foco 
+pila de respaldo
+
