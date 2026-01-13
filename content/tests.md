@@ -41,4 +41,3 @@ Nota: ya han sido varias veces que exporto un pdf a partir de este espacio en ob
 poor que solo no quiero que se quede por ahí:
 ![[s1]]
 
-aaaaaaaaaaaaaaaaaa
