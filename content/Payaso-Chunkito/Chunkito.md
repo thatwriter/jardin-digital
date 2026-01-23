@@ -35,3 +35,7 @@ Estoy realizando una investigación, en la cual, estaré guardando el avance en 
 
 
 Hice una rutina para una competencia en Naucalpan [[Rutiona-telefono]]
+
+Queremos hacer un show chapatin y yo:
+https://www.youtube.com/watch?v=VfkAFdaFQQ4&list=RDVfkAFdaFQQ4&start_radio=1
+https://www.youtube.com/watch?v=JWOfhUeDIcQ&list=RDJWOfhUeDIcQ&start_radio=1

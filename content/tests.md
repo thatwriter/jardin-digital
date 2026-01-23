@@ -38,6 +38,3 @@ $M=\sqrt {a_1+...+a_n}$
 Nota: ya han sido varias veces que exporto un pdf a partir de este espacio en obsidian, si requiere un par de configuraciones, pero lo sigo viendo viable, adicional, en la web, no está pensado para exportar, sino para navegar, por lo que no pienso configurar una vista para impresión (aunque ya intenté justificar el texto, pero fallé cruelmente jajaja). 
 
 
-poor que solo no quiero que se quede por ahí:
-![[s1]]
-
