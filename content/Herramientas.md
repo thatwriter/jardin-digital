@@ -15,6 +15,7 @@ title: Herramientas y utilidades
 - Aprender/ usar SQL https://mystery.knightlab.com/
 - descargar videos de youtube enero 2026 https://yt1s.com.co/
 - visuales para música https://webvis.app/
+- reproducir sonidos con el teclado https://resanance.com/
 
 
 - ~~descargar libros [welib](https://welib.org/)~~

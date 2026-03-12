@@ -23,3 +23,7 @@ title: Escritos
 
 
 [[batalla-de-escritores]]
+
+---
+## **No quiero ser payaso (objetivo del Zettelkasten)**
+[[Introduccion]]

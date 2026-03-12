@@ -1,0 +1,12 @@
+---
+title: Introducción
+---
+## **El origen**
+Ya que quiero darle un sentido a mi Zettelkasten y dado que tengo una obsesión a organizar cosas y dejar cosas pendientes, le daré una revisión al proyecto, dando inicio así a mi investigación y escritura de libro, cuyo título es "No quiero ser payaso", y elijo ese título por que el día de hoy, no conozco apenas algunos payasos que representen las figuras que admiro, en su mayoría, llevan en alto el nombre del payaso, pero en su mayoría, son todo lo contrario al tipo de payaso que conocí, así que quiero darme a la tarea de qué elementos son los que representan esa figura ideal que tengo y cómo, en mi camino, puedo darle entender a las personas esos aspectos, también como un referente para construir mi personaje, que al día de hoy, sigue la corriente del augusto, pero que eventualmente busco transicionar a un excéntrico, pero para ello tengo que entender por qué se llaman cada uno de esa manera.
+
+## **Objetivo**
+Ya que se encuentra en una etapa de conceptualización, darle un resumen a algo que no existe, es prácticamente imposible describirlo, pero lo que si puedo hacer es definir el punto al que espero llegar. 
+A manera de investigación social, desarrollaré mis ideas, a manera de capítulos biográficos.
+Para ello es necesario definir que soy un estudiante de dos carreras universitarias, integrante de un grupo de payasos [[pagina-principal-lluvia]] en donde llevo a cabo todo mi esfuerzo artístico. 
+Mi personaje se llama chunkito y quiero definir lo que significa ser payaso, lo que es actualmente, y cuáles son las acciones que puedo realizar, para que el desarrollo contemporáneo que se le suele dar no solo a la puesta en escena, o a la manera que cada quien tiene de ganarse la vida con esta profesión, sino también a la imagen en si que tiene, que por ejemplo existen representaciones cinematográficas que desprestigian la imagen del payaso, que ojo, no es que me oponga, pero si considero que se le ha menospreciado, lo cual me parece incorrecto, ya que la calidad real, se ve muy poco, al menos en Latinoamérica, de igual manera, qué personajes han mantenido el nivel y qué acciones han tomado, o incluso si es que existen figuras, que hayamos tenido la desgracia de perder del medio, ya sea por retiro de la interpretación, o directamente por el fallecimiento de la persona.
+Por lo tanto, me pregunto ¿Vale la pena ser payaso?

@@ -30,3 +30,5 @@ Debe contener los lugares, personas que aparecieron y personas realizadoras.
 - Cámara 1: (por mejorar) aplicación IP Web cam conectadad por wifi
 - Cámara 2: Camo Camera conectada por USB
 
+
+tareas: hacer jingles de entrada (imagen sonora e imagen visual)

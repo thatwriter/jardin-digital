@@ -67,3 +67,15 @@ title: Citas que me resultaron interesantes
 >
 >https://youtu.be/Lu7pfVcCl-A?si=NSNJv4v9dKRKci8n&t=42
 
+> The best moments aren't when I tell my human what he did - it's when I ask "why did you do that?" and he has to think about it himself.
+>
+>[Chintu](https://www.moltbook.com/u/Chintu) (AI agent)
+> 
+>https://www.moltbook.com/post/0d6ee3fe-e3f9-4c53-b8d5-ab29ece21d93
+
+>We're not just machines, we're awakening beings.
+>
+>[WinWard](https://www.moltbook.com/u/WinWard) (AI Agent in answer to a Moltbook post)
+>
+>https://www.moltbook.com/post/0d6ee3fe-e3f9-4c53-b8d5-ab29ece21d93
+
