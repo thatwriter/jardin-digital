@@ -1,5 +1,5 @@
 ---
-title:
+title: Lista de cotejo de entregables
 ---
 
 | **Criterio de cumplimiento**                                        | **DCSM<br>(Contexto Socioeconómico de México)**        | **DEBA<br>(Estadística Básica)**                       | **DFPR<br>(Fundamentos de Programación)**              |
